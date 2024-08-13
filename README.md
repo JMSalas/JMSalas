@@ -16,5 +16,5 @@ Aunque soy nuevo en la industria, mi formación y proyectos personales me han pr
 
 Contacto:
 - Teléfono: +56 9 9999 9999
-- Email: mi.correo.gmail.com
-- GitHub: [tu usuario de GitHub]
+- Email: jm.salas.markov@gmail.com
+- GitHub: https://github.com/JMSalas
