@@ -1,4 +1,4 @@
-José Miguel Salas Markov 
+José Miguel Salas Markov, 
 Viña del Mar, Chile
 
 Ingeniero Informático apasionado por el desarrollo web y la creación de soluciones innovadoras. Especializado en tecnologías como Django, Python y bases de datos.
